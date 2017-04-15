@@ -1,7 +1,7 @@
-##Intro
+## Intro
         Percepio Tracealyzer reveals what is actually going on in embedded and IoT systems during runtime. Trace the real-time behavior of your operating system and application, gain insight with sophisticated visualization. Avoid the *guesswork* and *boost* your productivity. Find *bottlenecks* and improve performance. Available for several operating systems, including FreeRTOS, Micrium µC/OS, Linux and Wind River VxWorks.
 
-##Comments
+## Comments
 “Tracealyzer has doubled our development speed. Problems that otherwise would take days to solve are obvious with this tool and just a quick fix. We use it all the time.”
 Alex Pabouctisids, Lead Firmware Engineer        Flyability
 
